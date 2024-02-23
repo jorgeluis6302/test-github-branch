@@ -1,5 +1,6 @@
 # This is a test only
 
-Hi there!
+## Summary
 
-bye....
+- Installation
+- Configure development environment variables
